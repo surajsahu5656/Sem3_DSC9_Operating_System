@@ -1,6 +1,3 @@
-
-
-
 def fcfs(processes, bt, arrival_time):
     n = len(processes)
     wt = [0] * n
